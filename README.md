@@ -30,4 +30,4 @@ I'm a huge fan of open-source software and I love contributing to various projec
 
 ---
 
-⭐️ From [Your Name](https://github.com/leedy-dev)
+⭐️ From [DY Lee](https://github.com/leedy-dev)
