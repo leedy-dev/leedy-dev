@@ -24,6 +24,7 @@ This is my personal website. It introduces who I am and serves as a place to exp
 
 ### 📫 How to reach me
 - Email: [ldy033000@gmail.com](mailto:ldy033000@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/lee-dy/](https://www.linkedin.com/in/lee-dy/)
 
 ### ⚡ Fun fact
 I'm a huge fan of open-source software and I love contributing to various projects. In my free time, you can find me football, reading tech blogs.
