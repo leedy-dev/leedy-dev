@@ -21,6 +21,8 @@ I'm a passionate web developer with a love for creating dynamic and responsive w
 
 #### [Project 1: My Web Site Project](https://dylabo.me)
 This is my personal website. It introduces who I am and serves as a place to experiment with various features.
+- Spring boot
+- ReactJS, Typescript
 
 ### 📫 How to reach me
 - Email: [ldy033000@gmail.com](mailto:ldy033000@gmail.com)
