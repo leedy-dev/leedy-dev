@@ -1,4 +1,4 @@
-# Hi there 👋, I'm DY Lee!
+# Hi There 👋, I'm DY Lee!
 
 
 ## 🚀 About Me
